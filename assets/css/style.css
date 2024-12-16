@@ -5,6 +5,10 @@ body {
 .navbar {
   background-color: teal;
 }
+
+.active {
+  color: white;
+}
 .hero {
   background-color: teal;
   color: white;
@@ -22,6 +26,14 @@ body {
 .hero img {
   max-width: 80%;
   height: auto;
+}
+
+/* Animasi untuk mengetik */
+.typewriter {
+  font-family: "Courier New", Courier, monospace;
+  display: inline-block;
+  border-right: 2px solid;
+  padding-right: 5px;
 }
 @media (max-width: 992px) {
   .hero img {
