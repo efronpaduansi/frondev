@@ -12,13 +12,13 @@
          <div class="collapse navbar-collapse" id="navbarNav">
              <ul class="navbar-nav ms-auto">
                  <li class="nav-item">
-                     <a class="nav-link" href="#features">Tentang</a>
+                     <a class="nav-link" href="about.php">Tentang</a>
                  </li>
                  <li class="nav-item">
                      <a class="nav-link" href="#contact">Kontak</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link" href="#">Blog</a>
+                     <a class="nav-link" href="https://myefronius.blogspot.com" target="_blank">Blog</a>
                  </li>
                  <li class="nav-item">
                      <a class="nav-link active" target="_blank" href="https://github.com/efronpaduansi"><i
